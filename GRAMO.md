@@ -18,7 +18,7 @@
 
 iOS, Android, Back-end, Design
 
-
+**디자인** ✅
 
 
 
@@ -26,23 +26,27 @@ iOS, Android, Back-end, Design
 
 https://hijjang2.tistory.com/441
 
+**EditText 입력 변화 이벤트**
+
+https://ccdev.tistory.com/15
+
 
 
 ---------------------------------------------------------------------------------------------
 
 # 네비게이션 드로어 (사이드바)
 
-**화면전환은 왼쪽 상단 목록바를 통해 전환**
+**화면전환은 왼쪽 상단 목록바를 통해 전환**  ✅
 
-**목록 바 상단**
+**목록 바 상단**  ✅
 
 미니 프로필(이름, 분야)
 
-**목록 바 중단**
+**목록 바 중단**  ✅
 
 화면(페이지) 전환
 
-**목록 바 하단**
+**목록 바 하단 ** ✅
 
 탈퇴 / 로그아웃
 
@@ -113,6 +117,24 @@ https://blog.naver.com/ndb796/221553341369
 
 
 ​	
+
+# 기타 참고 예제
+
+**Back 버튼 2번 입력 후 종료** 
+
+https://atomic0x90.github.io/android-studio/2020/02/28/android-studio-back-button.html
+
+**배경 터치시 키보드 감추기**
+
+http://www.incree.com/tc/incree/100
+
+**팝업 창(dialog) 띄우기**
+
+https://lktprogrammer.tistory.com/155
+
+**소스코드로 색상 변경**
+
+https://kkotkkio.tistory.com/21
 
 
 
