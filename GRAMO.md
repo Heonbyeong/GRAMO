@@ -30,6 +30,8 @@ https://hijjang2.tistory.com/441
 
 https://ccdev.tistory.com/15
 
+https://mine-it-record.tistory.com/272
+
 
 
 ---------------------------------------------------------------------------------------------
@@ -61,6 +63,23 @@ https://lktprogrammer.tistory.com/168
 ## 공식문서
 
 https://developer.android.com/guide/navigation/navigation-migrate?hl=ko#kotlin
+
+**Menu Item 색상 변경(개별)**
+
+https://stackoverflow.com/questions/32042794/changing-text-color-of-menu-item-in-navigation-drawer/32114570
+
+```Kotlin
+//개별적으로 item 색상 변경
+val nvDrawer : NavigationView = nav_view
+val menu = nvDrawer.getMenu()
+val menuItem = menu.getItem(3)
+
+if(menuItem.title.equals("로그아웃")){
+val spannableString = SpannableString(menuItem.title.toString())
+spannableString.setSpan(ForegroundColorSpan(getColor(R.color.red)), 0, spannableString.length,0)
+menuItem.setTitle(spannableString)
+}
+```
 
 
 
@@ -135,6 +154,14 @@ https://lktprogrammer.tistory.com/155
 **소스코드로 색상 변경**
 
 https://kkotkkio.tistory.com/21
+
+**툴바 그림자(경계선) 제거**
+
+https://hwiyong.tistory.com/13
+
+**툴바 타이틀 제거**
+
+https://themach.tistory.com/137
 
 
 
