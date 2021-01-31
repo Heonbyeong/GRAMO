@@ -26,11 +26,19 @@ iOS, Android, Back-end, Design
 
 https://hijjang2.tistory.com/441
 
-**EditText 입력 변화 이벤트**
+## EditText 입력 변화 이벤트
 
 https://ccdev.tistory.com/15
 
 https://mine-it-record.tistory.com/272
+
+## 스피너 힌트 설정
+
+https://stackoverflow.com/questions/37019941/how-to-add-a-hint-in-spinner-in-xml
+
+## 스피너 선택시 가상 키보드 내리기
+
+https://stackoverflow.com/questions/13116784/how-to-hide-virtual-keyboard-on-touch-of-a-spinner
 
 
 
