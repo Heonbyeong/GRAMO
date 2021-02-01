@@ -101,7 +101,7 @@ menuItem.setTitle(spannableString)
 
 20자로 길이제한, 잘리는 글자는 흐릿하게 표현
 
-**공지사항 페이지**
+**공지사항 페이지** 
 
 한 페이지에 보이는 뷰는 10칸으로 제한 (리사이클러뷰 이용)
 
@@ -123,13 +123,13 @@ menuItem.setTitle(spannableString)
 
 
 
-## 텍스트뷰 흐르게 처리
+## 텍스트뷰 말줄임 표시
 
-https://docko.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-TextView-%EA%B8%B4-%EB%AC%B8%EC%9E%A5-%ED%9D%90%EB%A5%B4%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0
+https://jhshjs.tistory.com/27	
 
 ## 리사이클러뷰
 
-https://dev-imaec.tistory.com/27
+https://codechacha.com/ko/android-recyclerview/
 
 ## 액티비티 팝업
 
@@ -141,9 +141,13 @@ https://ghj1001020.tistory.com/9
 
 https://blog.naver.com/ndb796/221553341369
 
+**BottomSheet Adapter에서 사용법 정리**
 
+https://minwook-shin.github.io/android-kotlin-recyclerview-adapter-bottom-sheet-dialog/
 
-​	
+**Bottom Sheet 테두리 수정하기**
+
+https://stackoverflow.com/questions/43852562/round-corner-for-bottomsheetdialogfragment
 
 # 기타 참고 예제
 
