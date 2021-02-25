@@ -26,6 +26,10 @@ iOS, Android, Back-end, Design
 
 https://hijjang2.tistory.com/441
 
+## 레트로핏 GET/POST/PUT/DELETE
+
+https://jaejong.tistory.com/38
+
 ## EditText 입력 변화 이벤트
 
 https://ccdev.tistory.com/15
@@ -131,6 +135,10 @@ https://jhshjs.tistory.com/27
 
 https://codechacha.com/ko/android-recyclerview/
 
+## 리사이클러뷰 아이템 클릭 이벤트
+
+https://everyshare.tistory.com/68
+
 ## 액티비티 팝업
 
 https://wookkwang.tistory.com/entry/Activity-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%EB%A5%BC-%ED%8C%9D%EC%97%85%EC%9C%BC%EB%A1%9C-%EB%9D%84%EC%9A%B0%EA%B8%B0-Popup-Activity
@@ -141,6 +149,8 @@ https://ghj1001020.tistory.com/9
 
 https://blog.naver.com/ndb796/221553341369
 
+## Bottom sheet
+
 **BottomSheet Adapter에서 사용법 정리**
 
 https://minwook-shin.github.io/android-kotlin-recyclerview-adapter-bottom-sheet-dialog/
@@ -148,6 +158,16 @@ https://minwook-shin.github.io/android-kotlin-recyclerview-adapter-bottom-sheet-
 **Bottom Sheet 테두리 수정하기**
 
 https://stackoverflow.com/questions/43852562/round-corner-for-bottomsheetdialogfragment
+
+### Bottom sheet 콜백
+
+https://youngest-programming.tistory.com/349
+
+https://youngest-programming.tistory.com/373
+
+## 현재 시간 가져오기
+
+https://lesslate.github.io/android/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%ED%98%84%EC%9E%AC-%EB%82%A0%EC%A7%9C,-%EC%8B%9C%EA%B0%84-%EC%B6%9C%EB%A0%A5/
 
 # 기타 참고 예제
 
