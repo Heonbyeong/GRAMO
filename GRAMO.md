@@ -30,6 +30,10 @@ https://hijjang2.tistory.com/441
 
 https://jaejong.tistory.com/38
 
+## 토큰 SharedPreferences로 저장하기
+
+https://onlyfor-me-blog.tistory.com/276
+
 ## EditText 입력 변화 이벤트
 
 https://ccdev.tistory.com/15
