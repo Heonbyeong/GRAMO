@@ -139,6 +139,10 @@ https://codechacha.com/ko/android-recyclerview/
 
 https://everyshare.tistory.com/68
 
+## 리사이클러뷰 retrofit 연동
+
+https://purple-wood-lights.tistory.com/10
+
 ## 액티비티 팝업
 
 https://wookkwang.tistory.com/entry/Activity-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0%EB%A5%BC-%ED%8C%9D%EC%97%85%EC%9C%BC%EB%A1%9C-%EB%9D%84%EC%9A%B0%EA%B8%B0-Popup-Activity
